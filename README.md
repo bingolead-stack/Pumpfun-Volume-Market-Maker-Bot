@@ -33,7 +33,3 @@ npm install
 npm run start
 ```
 
-### Contacts
-- Telegram: https://t.me/DevCutup
-- Whatsapp: https://wa.me/13137423660
-- Twitter:  https://x.com/devcutup
